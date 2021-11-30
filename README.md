@@ -1,2 +1,2 @@
 # DOCKER
-This repository contains the insights that I gained on Introduction to Docker via session taken by Jeff Carpenter
+This repository contains the insights that I gained from a session on Introduction to Docker by Jeff Carpenter.
